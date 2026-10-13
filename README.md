@@ -1,2 +1,2 @@
 # java-beginner-programs
-Some java programs I built in the start of my journey on BlueJ in the first year of university.
+A collection of beginner Java programs I created in BlueJ during my first year at university, covering input, conditionals, loops, methods, and arrays.
