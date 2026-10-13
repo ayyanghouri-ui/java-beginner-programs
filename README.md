@@ -1,6 +1,6 @@
 # Java Beginner Programs
 
-A collection of beginner Java programs I created in BlueJ during my first year at university, covering input, conditionals, loops, methods, and arrays.
+A collection of beginner Java programs I created in BlueJ during my first year at university, covering input, conditionals, loops, methods.
 
 ## Programs
 
